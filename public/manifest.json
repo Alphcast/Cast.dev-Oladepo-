@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Oladepo Rokeeb Olayinka | Senior Full-Stack & AI Engineer",
+  "short_name": "CAST DEV",
+  "description": "Portfolio and AI Engineering Suite for Oladepo Rokeeb Olayinka (@Alphcast). Full-stack, CBT proctoring, and AI video systems.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/GOOD.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/GOOD.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "developer", "portfolio", "productivity"]
+}
